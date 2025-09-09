@@ -10,12 +10,14 @@ El objetivo del software es controlar el comportamiento autónomo del robot dura
 	•	QTRSensors.h → detección de línea negra/blanca.
  
 🚦 Lógica del Programa
-	1.	Inicialización: Configuración de sensores y motores.
-	2.	Bucle principal (loop):
+
+1.	Inicialización: Configuración de sensores y motores.
+   
+2.	Bucle principal (loop):
 	•	Leer sensores.
 	•	Determinar si se detecta línea o enemigo.
 	•	Decidir estrategia según el estado.
-	3.	Acciones posibles:
+3.	Acciones posibles:
 	•	Avanzar rápido hacia el oponente.
 	•	Girar buscando al oponente.
 	•	Retroceder y esquivar.
