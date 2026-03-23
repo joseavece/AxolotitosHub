@@ -1,4 +1,4 @@
-# AxolotitosHub 🐟
+# ANTIQUE AXOLOTITOSHUB / NOW FORMER IGNIS-DAINAM FI UNAM
 
 Repositorio general de nuestro club.  
 Aquí pueden subir avances y material de **Electrónica**, **Mecánica** y **Programación**.
